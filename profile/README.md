@@ -1,2 +1,3 @@
-# .github
-microlab-unibg/.github is a ✨special ✨ repository that you can use to add a README.md to your public organization profile, visible to anyone. Make sure it’s public and initialize it with a README in the profile directory to get started.
+# MICROELECTRONICS LABORATORY - University of Bergamo
+
+The microelectronics and sensors group of the University of Bergamo deals with the design and characterization of innovative devices and integrated circuits in the frontier technologies of semiconductors. The microelectronics laboratory also develops microsystems and sensors for new Internet of Things applications.
